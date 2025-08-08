@@ -1,10 +1,10 @@
-theme = catppuccin-mocha
-# theme = GruvboxDark
-# font-family = Meslo LGS Nerd Font Mono
-# font-family = CaskaydiaMono Nerd Font
-font-family = CaskaydiaCove Nerd Font
+# Window
+background-opacity = 0.8
+background-blur = true
 font-size = 16
-background-opacity = 0.95
-gtk-titlebar = false
-# custom-shader = /home/chris/bloom.glsl
-#custom-shader = /home/chris/crt.glsl
+shell-integration = zsh
+shell-integration-features = true
+#theme = dark:catppuccin-mocha,light:catppuccin-latte
+theme = catppuccin-mocha
+# Cursor
+cursor-style = blocksl
